@@ -45,7 +45,7 @@ The project is split across multiple files for organisation:
 	- Static class Settings
 - Text.cs - Text and templates that will be displayed
 # Technical Solution
-See attached zip file containing code
+See code in repository
 # Testing
 |                                           Objective                                            |                              Case                               |                                                       Expected                                                        |                  Result                  |
 |:----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:----------------------------------------:|
