@@ -64,3 +64,10 @@ See attached zip file containing code
 |                                                                                                | Boat started in valid location but extended over existing boat  |                              Program will not allow cursor to move over an existing boat                              | ![ship-placement-extend-over-ship.gif](ship-placement-extend-over-ship.gif) |
 | When playing the game, the player and computer should take turns firing at a tile of the board |           Player starts by covering one row at a time           |        Computer shoots randomly until it hits a ship, then shoots around it trying to find any adjacent ships         |      ![play-game-computer-ai.gif](play-game-computer-ai.gif)      |
 |                                                                                                |                                                                 |                                                                                                                       |                                          |
+# Evaluation
+Overall, I think that the project was a success, and the overall result is a functional game that is mostly stable and intuitive.
+
+If I was doing this again, however, I would change certain things:
+- While I attempted to keep my code well organised, by the end it was somewhat messy and not structured in a consistent manner. If making the project again I would plan out the structure in more detail first before actually writing it
+- I did not comment my code until it was finished so I had to do it all in one go at the end. If doing this again, I would try to write comments as I go
+- Testing my code was very manual and time-consuming, another time I would set up automated testing where possible
